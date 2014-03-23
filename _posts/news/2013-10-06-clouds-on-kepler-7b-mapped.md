@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Clouds on Kepler 7b mapped
 meta: Clouds on Kepler 7b mapped
 source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html

@@ -1,3 +1,6 @@
 markdown: redcarpet
 baseurl: /jekyll-test-site
-exclude: ['readme.md']
+exclude: ['readme.md','config.codekit','.git','.gitignore']
+permalink: pretty
+hostname: jekyll
+port: 4000
