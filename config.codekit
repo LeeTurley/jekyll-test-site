@@ -50,6 +50,14 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/planets.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/planets.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/tpn.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -124,26 +132,26 @@
 		"outputAbbreviatedPath": "\/_posts\/planet-types\/2003-03-03-dwarf.html",
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/recently-discovered\/2010-09-29-gliese-581-g.md": {
+	"\/_posts\/recently-discovered\/2010-09-29-gliese-581-g2.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/recently-discovered\/2010-09-29-gliese-581-g.md",
-		"outputAbbreviatedPath": "\/_posts\/recently-discovered\/2010-09-29-gliese-581-g.html",
+		"inputAbbreviatedPath": "\/_posts\/recently-discovered\/2010-09-29-gliese-581-g2.md",
+		"outputAbbreviatedPath": "\/_posts\/recently-discovered\/2010-09-29-gliese-581-g2.html",
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/recently-discovered\/2012-12-19-tau-cet.md": {
+	"\/_posts\/recently-discovered\/2012-12-19-tau-cet2.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/recently-discovered\/2012-12-19-tau-cet.md",
-		"outputAbbreviatedPath": "\/_posts\/recently-discovered\/2012-12-19-tau-cet.html",
+		"inputAbbreviatedPath": "\/_posts\/recently-discovered\/2012-12-19-tau-cet2.md",
+		"outputAbbreviatedPath": "\/_posts\/recently-discovered\/2012-12-19-tau-cet2.html",
 		"outputPathIsSetByUser": 0
 		},
 	"\/_posts\/recently-discovered\/2013-01-01-kepler-7b.md": {
@@ -187,6 +195,26 @@
 		"inputAbbreviatedPath": "\/_site\/css\/stylesheet2.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/img\/nebula-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322389,
+		"inputAbbreviatedPath": "\/_site\/img\/nebula-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/nebula-2.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/nebula.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167343,
+		"inputAbbreviatedPath": "\/_site\/img\/nebula.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/nebula.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/img\/planets\/ceres.jpg": {
 		"fileType": 16384,
@@ -291,6 +319,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/planets\/dwarf\/ceres.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/planets\/dwarf\/ceres.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
@@ -414,6 +450,26 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/nebula-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322389,
+		"inputAbbreviatedPath": "\/img\/nebula-2.jpg",
+		"outputAbbreviatedPath": "\/img\/nebula-2.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/nebula.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167343,
+		"inputAbbreviatedPath": "\/img\/nebula.jpg",
+		"outputAbbreviatedPath": "\/img\/nebula.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/img\/planets\/ceres.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -517,6 +573,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/news.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/planets\/dwarf\/ceres.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/planets\/dwarf\/ceres.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
@@ -669,7 +733,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "jekyll-test-site",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "pencil_yellow"
+	"iconImageName": "meme-fry"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,

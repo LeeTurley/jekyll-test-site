@@ -4,18 +4,30 @@ html {
 	font: normal 100%/1.4 Georgia,serif;
 }
 
+.masthead {
+	padding: 1em;
+	background: #000531 url('../img/nebula.jpg') no-repeat center center;
+	background-size: cover;
+	color: #fff;
+}
+
+.masthead-planets {
+	background: #000531 url('../img/nebula-2.jpg') no-repeat center center;
+}
+
 .current {
 	background-color: #000531;
 	color:  #ccc;
 	padding: 5px;
 }
 
-.nav {
+.nav, .sub-nav {
 	list-style-type: none;
 }
 
-.nav > li {
+.nav > li, .sub-nav > li {
 	display: inline-block;
+	padding-right: 10px;
 }
 
 .nav-top {

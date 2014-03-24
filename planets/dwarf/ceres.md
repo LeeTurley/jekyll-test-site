@@ -3,7 +3,7 @@ layout: planet
 title: Ceres
 meta: Ceres is the largest asteroid and the only dwarf planet in the inner
 type: dwarf
-discoverer: Guiseppe Piazzzi 
+discoverer: Guiseppe Piazzzi
 discovered: 1801-01-01
 orbit: 4.6 years
 radius: 487 km
