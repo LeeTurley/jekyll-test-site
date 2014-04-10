@@ -3,3 +3,5 @@ config.codekit
 .gitignore
 
 /_sass/.sass-cache/fd50a4acafe642da30d4ac00603d5e64dc9dd660/stylesheet.scssc
+
+*.attr

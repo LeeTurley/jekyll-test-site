@@ -2,8 +2,17 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>Planets of the Universe</title>
+	<title>
+			{% if page.title %}
+
+				{{ page.title }} -
+			{% endif %}
+
+			Planets of the Universe
+	</title>
+
 	<link href="{{site.baseurl}}/css/stylesheet.css" rel="stylesheet" type="text/css">
+	<meta name='description' content='{{page.meta}}' >
 </head>
 
 <body>
